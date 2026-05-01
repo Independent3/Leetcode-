@@ -4,7 +4,7 @@
 numbers = [4,8,15,16,23,42]
 
 
-#prepei na brw to average --> uparxei hdh to avg(numbers)
+#prepei na brw to average --> avg = sum(numbers)/len(numbers)
 #loop gia print ari8mwn > average
 
 
